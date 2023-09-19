@@ -1,2 +1,9 @@
 streamlit
 langchain
+pymupdf
+PyPDF2
+pypdf
+python-dotenv
+tiktoken
+chromadb
+openai
